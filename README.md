@@ -14,4 +14,5 @@
 - Interest: AI, Workout and Relaxing video games 💬
 
 ## Tech Stack
-- Google Collab
+- Google Collab 👯‍
+- Jupyter Notebook 👩‍💻
